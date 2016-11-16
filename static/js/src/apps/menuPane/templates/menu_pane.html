@@ -1,0 +1,13 @@
+<div class="TopSection top-section"></div>
+<div class="MenuOptions menu-options">
+  {{#each menuItems}}
+    <div class="menu-item MenuItem {{name}}" data-id="{{dataUrl}}">
+      {{! Only use image if icon unavailable}}
+      <span class="menu-icon {{icon}}">{{#if image}}
+      <img class="icon-sm" src="{{image}}">
+      {{/if}}</span>
+      <span class="menu-name">{{displayName}}</span>
+    </div>
+  {{/each}}
+</div>
+<div class="ios-pad-bottom"></div>

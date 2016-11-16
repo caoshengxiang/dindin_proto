@@ -1,0 +1,44 @@
+<form class="dd-form">
+  {{#if isToPay}}
+  <div class="text">PAGAR OU COBRAR</div>
+  <div class="SearchBox TransRecipients search-box">
+    <span class="SelectedUsers selected-search-results"></span>
+    <input type="" class="SearchUsers search-input" placeholder="nome, @usuário, e-mail" />
+    <span class="plus">+</span>
+  </div>
+  <div class="recent">
+    <i class="dd-icon-recent-lightgreen-01 ico-size"></i>
+    <div class="text-recent">recentes</div>
+  </div>
+
+  <div class="SearchShortcut">
+    <div class="CreateGroup search-list-item">
+      <img src="static/img/dd-icon-group-lightgreen.png">
+      &nbsp;&nbsp;+ CRIAR GRUPO</div>
+    <div class="RecentUsers"></div>
+  </div>
+
+  <div class="Results search-results"></div>
+  <div class="Recents recents"></div>
+
+  <div class="button-group payment-actions fixed-bottom">
+    <button class="EnterAmount dd-payment-button button-large" type="button">cobrar ou pagar</button>
+  </div>
+
+  {{else}}
+  {{! search users for adding friends}}
+  <div class="SearchBox TransRecipients search-box">
+    <span class="SelectedUsers selected-search-results"></span>
+    <input type="" class="SearchUsers search-input" placeholder="nome, @usuário, e-mail" />
+  </div>
+
+  <div class="recent">
+    <i class="dd-icon-recent-lightgreen-01 ico-size"></i>
+    <div class="text-recent">recentes</div>
+  </div>
+
+  <div class="Results search-results"></div>
+  <div class="Recents recents"></div>
+
+  {{/if}}{{! end if isToPay}}
+</form>

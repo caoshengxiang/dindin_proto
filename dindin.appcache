@@ -1,0 +1,21 @@
+CACHE MANIFEST
+
+# Version 1.6
+
+NETWORK:
+*
+
+CACHE:
+index.html
+static/js/lib/backbone.min.js
+static/js/lib/backbone-min.map
+static/js/lib/fastclick.js
+static/js/lib/handlebars.min.js
+static/js/lib/jquery.min.js
+static/js/lib/modernizr-2.8.3.min.js
+static/js/lib/require.min.js
+static/js/lib/text.js
+static/js/lib/underscore-min.map
+static/js/lib/underscore.min.js
+static/img
+static/sprite/ico

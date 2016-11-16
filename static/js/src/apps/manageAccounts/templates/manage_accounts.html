@@ -1,0 +1,54 @@
+<div class="AccountsContainer accounts-container">
+  <div class="category">CONTAS</div>
+  {{#each data.accounts}}
+  <div class="BankAccount account-list-item" data-id="{{id}}">
+    <span class="account-icon {{#if accountIcon}}{{accountIcon}}{{else}} fa fa-university{{/if}}"></span>
+    <span class="account-name">{{accountName}}</span>
+    <div class="actions">
+      <span class="Delete DeleteAccount icon-button"><i class="fa fa-trash"></i></span>
+      <span class="MakeDefault DefaultAccount default-account icon-button">
+        {{#if isDefault }}
+        <i class="isDefault fa fa-star"></i>
+        {{else}}
+        <i class="fa fa-star-o"></i>
+        {{/if}}
+      </span>
+    </div>
+  </div>
+  {{/each}}{{! end isDefault}}
+  <!-- Testing only -->
+  <div class="AddAccount actions account-list-item inverse">
+    <i class="fa fa-plus"></i>
+    <span class="item-text">ADICIONAR CONTA</span>
+  </div>
+</div>
+{{#if data.bankOnly}}
+<br>
+{{else}}
+<div class="CardsContainer accounts-container">
+  <div class="category">CARTÕES</div>
+  {{#each data.cards}}
+  <div class="CreditCard account-list-item" data-id="{{id}}">
+    <span class="account-icon fa fa-{{icon}}"></span>
+    <span class="account-name">********{{four_digits}}</span>
+    <div class="actions">
+      <span class="Delete DeleteCard icon-button"><i class="fa fa-trash"></i></span>
+      <span class="MakeDefault DefaultCard default-account icon-button">
+        {{#if isDefault }}
+        <i class="isDefault fa fa-star"></i>
+        {{else}}
+        <i class="fa fa-star-o"></i>
+        {{/if}}
+      </span>
+    </div>
+  </div>
+  {{/each}}{{! end accounts}}
+  <div class="AddCard actions account-list-item inverse">
+    <i class="fa fa-plus"></i>
+    <span class="item-text">ADICIONAR CARTÃO</span>
+  </div>
+  <br>
+  <br>
+</div>
+{{/if }}{{! end if bankOnly}}
+<div class="ModalWindow modal-window"></div>

@@ -1,0 +1,28 @@
+<div class="logo-wrapper">
+  <img class="welcome-logo" src="{{centerImage}}">
+</div>
+<div class="extra-content">
+  <div class="static-content">
+    <h3 class="text-green welcome-text">{{centerText}}</h3>
+    {{#each extraImages}}
+    <img src="{{this.imgurl}}">
+    {{/each}}
+    {{#each extraText}}
+    <p class="extra-text">{{this.text}}</p>
+    {{/each}}
+  </div>
+  <div class="login-options">
+
+    <div class="logo-head">
+      <img class="logo-img" src="{{centerImage}}">
+    </div>
+    <div class="RecentActivity recent-activity activity-container">
+
+    </div>
+    <div class="recent-activity-cover"></div>
+    <div class="login-btn">
+      <button class="input-name-tag Enter">ENTRAR</button>
+      <button class="input-name-tag Register">REGISTRAR</button>
+    </div>
+  </div>
+</div>

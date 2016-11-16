@@ -1,0 +1,12 @@
+node_modules
+.sass-cache
+static/doc
+static/js/*/settings.js
+*.pyc
+migrations
+*log.txt
+uploads
+server/local_settings.py
+*.sublime-project
+*.sublime-workspace
+bower_components

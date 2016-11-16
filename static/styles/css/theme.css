@@ -1,0 +1,1581 @@
+.ico-size {
+  width: 45px;
+  height: 45px;
+  display: inline-block; }
+
+.ico-size-30 {
+  width: 30px;
+  height: 30px;
+  display: inline-block; }
+
+.ico-size-32 {
+  width: 32px;
+  height: 32px;
+  display: inline-block; }
+
+.ico-size-60 {
+  width: 60px;
+  height: 60px;
+  display: inline-block; }
+
+.dd-icon-menu-grey-01 {
+  background: url(../ico/dd-icon-menu-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-feed-lightgreen-01 {
+  background: url(../ico/dd-icon-feed-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-feed-grey-01 {
+  background: url(../ico/dd-icon-feed-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-odds-lightgreen-01 {
+  background: url(../ico/dd-icon-odds-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-odds-grey-01 {
+  background: url(../ico/dd-icon-odds-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-person-lightgreen-01 {
+  background: url(../ico/dd-icon-person-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-person-grey-01 {
+  background: url(../ico/dd-icon-person-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-person-darkgreen-01 {
+  background: url(../ico/dd-icon-person-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-new-lightgreen-01 {
+  background: url(../ico/dd-icon-new-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-new-grey-01 {
+  background: url(../ico/dd-icon-new-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-public-darkgreen-01 {
+  background: url(../ico/dd-icon-public-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-public-grey-01 {
+  background: url(../ico/dd-icon-public-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-group-darkgreen-01 {
+  background: url(../ico/dd-icon-group-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-heart-01 {
+  background: url(../ico/dd-icon-heart-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-heart-highlight-01 {
+  background: url(../ico/dd-icon-heart-highlight-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-comment-01 {
+  background: url(../ico/dd-icon-comment-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-comment-highlight-01 {
+  background: url(../ico/dd-icon-comment-highlight-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-topay-darkgreen-01 {
+  background: url(../ico/dd-icon-topay-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-toreceive-darkgreen-01 {
+  background: url(../ico/dd-icon-toreceive-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-arrowleftfilled-darkgreen {
+  background: url(../ico/dd-icon-arrowleft-darkgreen.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-arrowleft-grey {
+  background: url(../ico/dd-icon-arrowleft-grey.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-crossdelete-grey-01 {
+  background: url(../ico/dd-icon-crossdelete-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-bag-darkgreen-01 {
+  background: url(../ico/dd-icon-bag-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-recent-lightgreen-01 {
+  background: url(../ico/dd-icon-recent-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-privacy-grey-01 {
+  background: url(../ico/dd-icon-privacy-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-block-grey-01 {
+  background: url(../ico/dd-icon-block-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-notifitications-grey-01 {
+  background: url(../ico/dd-icon-notifitications-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-attention-grey-01 {
+  background: url(../ico/dd-icon-attention-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-settings-grey-01 {
+  background: url(../ico/dd-icon-settings-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-group-grey-01 {
+  background: url(../ico/dd-icon-group-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-private-grey-01 {
+  background: url(../ico/dd-icon-private-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-help-grey-01 {
+  background: url(../ico/dd-icon-help-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-faq-grey-01 {
+  background: url(../ico/dd-icon-faq-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-chat-grey-01 {
+  background: url(../ico/dd-icon-chat-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-message-grey-01 {
+  background: url(../ico/dd-icon-message-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-check-darkgreen-01 {
+  background: url(../ico/dd-icon-check-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-check-grey-01 {
+  background: url(../ico/dd-icon-check-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-crossdelete-darkgreen-01 {
+  background: url(../ico/dd-icon-crossdelete-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-friends-darkgreen-01 {
+  background: url(../ico/dd-icon-friends-darkgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-friends-grey-01 {
+  background: url(../ico/dd-icon-friends-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-public-grey-01 {
+  background: url(../ico/dd-icon-public-grey-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+.dd-icon-private-lightgreen-01 {
+  background: url(../ico/dd-icon-private-lightgreen-01.png) 0 0 no-repeat;
+  background-size: 100% 100%; }
+
+* {
+  -webkit-tap-highlight-color: transparent; }
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+
+span {
+  display: inline-block; }
+
+h1 {
+  font-weight: 300;
+  letter-spacing: 5px; }
+
+img {
+  max-height: 100%; }
+
+/**
+ * CSS:ios
+ * CSS:hack
+ */
+.ios-scroll {
+  height: 100%;
+  overflow: scroll;
+  -webkit-overflow-scrolling: touch; }
+
+.ios-scroll-fix {
+  position: absolute;
+  width: 100%;
+  height: 125%;
+  -webkit-overflow-scrolling: touch; }
+  .ios-scroll-fix.has-nav {
+    top: 70px; }
+
+.ios-pad-bottom {
+  display: block;
+  background: transparent;
+  height: 60px; }
+
+.ios-bottom-fix {
+  display: block;
+  height: 200px;
+  width: 100%; }
+
+.col-10 {
+  width: 10%; }
+
+.col-1 {
+  width: 10%; }
+
+.col-2 {
+  width: 20%; }
+
+.col-3 {
+  width: 30%; }
+
+.col-4 {
+  width: 40%; }
+
+.col-5 {
+  width: 50%; }
+
+.col-6 {
+  width: 60%; }
+
+.col-7 {
+  width: 70%; }
+
+.col-8 {
+  width: 80%; }
+
+.col-9 {
+  width: 90%; }
+
+.col-10 {
+  width: 100%; }
+
+/**
+ * CSS: Icon
+ */
+.icon-150 {
+  font-size: 1.5em !important;
+  vertical-align: middle; }
+
+.icon-sm {
+  height: 32px;
+  width: 32px; }
+  .icon-sm img {
+    max-height: 100%; }
+
+.header-icon {
+  position: relative; }
+
+.badge-icon {
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  font-size: 0.7em;
+  text-align: center;
+  vertical-align: middle;
+  position: absolute;
+  top: 0px;
+  right: 0;
+  display: none;
+  align-items: center;
+  justify-content: center; }
+  .badge-icon-red {
+    color: #FFF;
+    background: #F00; }
+  .badge-icon-tab {
+    top: 5px;
+    right: 15px; }
+
+/**
+ * Comment:
+ * This is used as an icon. So put styling rules
+ * where those for icons are.
+ */
+.plus {
+  position: absolute;
+  right: 5px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  height: 0.9em;
+  display: flex;
+  align-items: center;
+  bottom: 0;
+  right: 5px;
+  color: #000;
+  font-weight: 100;
+  font-size: 3.5em;
+  padding: 0;
+  /**
+   * TODO:
+   * Text looks better with this enabled, consider
+   * adding globally.
+   */
+  text-rendering: geomatricPrecision; }
+
+/**
+ * CSS:Text
+ */
+.title {
+  color: #FFF;
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+  .title.black {
+    color: #000; }
+
+.tag {
+  text-align: left;
+  margin-left: 5%; }
+
+.text-green {
+  font-size: 1em;
+  color: #92C473 !important;
+  font-weight: 200;
+  letter-spacing: 2px; }
+  .text-green.inverse {
+    background: #003A42;
+    padding: 0.5em;
+    color: #FFF !important;
+    font-size: 0.8em;
+    margin: 0.5em; }
+
+.text-white {
+  color: #FFF !important; }
+
+.text-green-dark {
+  color: #003A42 !important; }
+
+.text-left {
+  text-align: left; }
+  .text-left.padded-left {
+    padding-left: 5%; }
+
+.text-small {
+  font-size: 0.8em; }
+
+.text-compact {
+  letter-spacing: 0; }
+
+.welcome-text {
+  font-size: 1.5em; }
+
+.text-upper {
+  text-transform: uppercase; }
+
+.display-name {
+  font-size: 1.2em; }
+
+/**
+ * CSS:icon
+ */
+.icon-button {
+  padding: 0.5em; }
+
+/**
+ * CSS:spatial
+ * CSS:distance
+ * CSS:margin
+ * CSS:padding
+ */
+.dd-container {
+  width: 90%;
+  margin: auto; }
+
+.padded {
+  padding: 1em; }
+  .padded.padded-sm {
+    padding: 0.8em 0;
+    color: #FFF;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto; }
+    .padded.padded-sm .back-ico {
+      height: 30px;
+      position: absolute;
+      left: 10px;
+      top: 77px; }
+
+.full-page {
+  height: 100%; }
+
+.hidden-input {
+  left: 0;
+  width: 100%;
+  top: 0;
+  z-index: 99;
+  height: 100%;
+  position: absolute;
+  background: transparent;
+  color: transparent;
+  opacity: 0; }
+  .hidden-input .file-field {
+    height: 100%;
+    width: 100%; }
+
+.loader {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center; }
+  .loader.loader-page {
+    background: rgba(0, 0, 0, 0.4);
+    z-index: 999;
+    font-size: 3em;
+    color: #FFF; }
+  .loader.loader-content {
+    position: absolute;
+    font-size: 2em;
+    color: #FFF; }
+
+.dd-button {
+  display: block;
+  color: #5D6058;
+  background: #FFF;
+  margin: 1em auto;
+  border: none;
+  border-radius: 2em;
+  padding: 0.5em; }
+  .dd-button.bordered {
+    border: 1px solid #003A42; }
+  .dd-button.button-small {
+    margin: 0;
+    display: inline-block;
+    padding: 0.2em 0.5em;
+    width: 70px; }
+  .dd-button.button-middle {
+    display: inline-block;
+    width: 40%; }
+  .dd-button.button-large-x {
+    padding: 0.5em;
+    width: 80%; }
+  .dd-button.button-large {
+    padding: 1em;
+    width: 60%;
+    font-size: 0.7em; }
+  .dd-button.dd-button-squared {
+    border-radius: 0; }
+  .dd-button.dd-button-green {
+    color: #FFF;
+    background: #003A42; }
+  .dd-button.dd-button-compact {
+    margin-left: 5px;
+    height: 30px;
+    font-size: 0.8em; }
+
+/**
+ * CSS:input
+ */
+.input-name-tag {
+  background: #003A42;
+  padding: 0.2em 0.8em;
+  border-radius: 1em;
+  margin: 0 5px;
+  color: #FFF;
+  border: 0;
+  position: relative; }
+  .input-name-tag a {
+    color: inherit;
+    text-decoration: none; }
+
+.search-input {
+  font-family: FontAwesome;
+  font-size: 0.7em; }
+
+.dd-form {
+  padding-bottom: 15%;
+  /**
+   * CSS:dropdown
+   */ }
+  .dd-form .dd-payment-input {
+    width: 85%;
+    padding: 1em;
+    background: #FFF;
+    font-size: 0.7em;
+    border: none;
+    margin-top: 1em;
+    margin-bottom: 1em; }
+    .dd-form .dd-payment-input.payment-input-sm {
+      width: 30%; }
+  .dd-form .dd-input-squared {
+    line-height: normal;
+    min-height: 1em;
+    background: #FFF;
+    border: 0;
+    border-radius: 0;
+    width: 91%;
+    font-size: 1em;
+    margin: auto;
+    text-align: left;
+    padding: 1em 0;
+    display: flex;
+    align-items: center;
+    position: relative; }
+    .dd-form .dd-input-squared.has-icon {
+      width: 80%;
+      padding-left: 11%; }
+    .dd-form .dd-input-squared .input-name-tag {
+      background: #003A42;
+      padding: 0.5em 0.8em;
+      border-radius: 1em;
+      margin: 0 5px; }
+    .dd-form .dd-input-squared .recipients {
+      width: 90%; }
+  .dd-form .dd-drop-down {
+    width: 85%;
+    max-width: 85%;
+    padding: 1em !important;
+    margin: auto;
+    font-size: 0.7em;
+    line-height: initial !important;
+    min-height: 1em !important; }
+  .dd-form .input-keypad .display {
+    position: relative;
+    width: 95%;
+    margin: 0 auto; }
+    .dd-form .input-keypad .display .unit {
+      position: absolute;
+      left: 5%;
+      top: 0;
+      color: #FFF; }
+    .dd-form .input-keypad .display .payment-amount {
+      font-size: 3.5em;
+      margin: 0;
+      color: #FFF;
+      text-align: left;
+      margin-left: 0.4em;
+      padding-top: 0.2em; }
+    .dd-form .input-keypad .display .total {
+      color: #FFF;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      padding: 0 1em 1em 1em; }
+      .dd-form .input-keypad .display .total .color-green {
+        color: #7fc06f; }
+      .dd-form .input-keypad .display .total .people {
+        margin-left: 1em;
+        display: flex;
+        align-items: center; }
+  .dd-form .input-keypad .keypad {
+    width: 95%;
+    margin: 0 auto; }
+    .dd-form .input-keypad .keypad .key {
+      position: relative;
+      width: 30%;
+      font-size: 1.5em;
+      padding: 0.3em;
+      background: #FFF;
+      border: none;
+      margin: 2px; }
+      .dd-form .input-keypad .keypad .key .abs-pos-key {
+        position: absolute;
+        left: 0;
+        right: 0;
+        line-height: 0;
+        font-size: 2em; }
+  .dd-form .input-keypad.inverse .display .unit {
+    color: #003A42; }
+  .dd-form .input-keypad.inverse .display .payment-amount {
+    color: #003A42; }
+  .dd-form .input-keypad.inverse .keypad .key {
+    background: #003A42;
+    color: #FFF; }
+
+.payment-actions {
+  margin-top: 0.5em;
+  justify-content: space-between; }
+  .payment-actions .dd-payment-button {
+    width: 45%;
+    padding: 0.7em;
+    background: none;
+    border: 1px solid #FFF;
+    color: #FFF; }
+    .payment-actions .dd-payment-button.inverse {
+      border: 1px solid #003A42;
+      color: #003A42; }
+    .payment-actions .dd-payment-button.button-large {
+      width: 80%;
+      margin: auto; }
+    .payment-actions .dd-payment-button.button-large-x {
+      width: 100%; }
+
+.button-group {
+  text-align: center;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex; }
+  .button-group a {
+    height: 100%;
+    width: 100%; }
+  .button-group.center-content {
+    justify-content: center; }
+  .button-group.fixed-bottom {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1em;
+    background: #003A42; }
+
+.divider-group {
+  text-align: center;
+  color: #FFF; }
+
+.input-group {
+  text-align: center;
+  /**
+   * This is usually a div
+   */ }
+  .input-group .input-with-icon {
+    position: relative;
+    margin-bottom: 0.5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: white;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 45px; }
+  .input-group .dd-input {
+    line-height: 2.5em;
+    margin: 0.3em auto;
+    border-radius: 2em;
+    border: 2px solid #FFFCE2;
+    padding-left: 20px;
+    width: 70%;
+    background: none;
+    color: #92C473; }
+  .input-group .dd-input-squared {
+    line-height: normal;
+    height: 2.5em;
+    color: #000;
+    border: 0;
+    border-radius: 0;
+    width: 90%;
+    font-size: 1em;
+    background: transparent; }
+  .input-group .dd-input-locked {
+    color: #92C473;
+    background: #FFF;
+    display: flex;
+    align-items: center;
+    margin: auto; }
+
+.dd-row {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin: auto;
+  padding: 20px; }
+
+.dd-col {
+  position: relative;
+  display: flex;
+  flex-direction: column; }
+
+/**
+ * CSS:List
+ */
+.dd-list {
+  overflow: auto; }
+  .dd-list .dd-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 0; }
+    .dd-list .dd-list-item a {
+      display: block;
+      height: 100%;
+      width: 100%;
+      color: inherit;
+      text-decoration: none; }
+    .dd-list .dd-list-item.left {
+      text-align: left; }
+    .dd-list .dd-list-item.account-list-item {
+      border: 1px solid #fff;
+      color: white;
+      background: #003A42;
+      padding: 0.5em;
+      letter-spacing: 1px;
+      margin: 1em;
+      display: flex;
+      align-items: center;
+      justify-content: space-between; }
+      .dd-list .dd-list-item.account-list-item .item-text {
+        width: 100%;
+        text-align: left;
+        padding-left: 1em;
+        font-size: 0.8em; }
+      .dd-list .dd-list-item.account-list-item.inverse {
+        background: transparent;
+        color: #003A42; }
+      .dd-list .dd-list-item.account-list-item.inverse-light {
+        color: #FFF;
+        border: 1px solid #FFF; }
+
+.quarter-1 {
+  width: 25%; }
+
+.quarter-2 {
+  width: 50%; }
+
+.quarter-3 {
+  width: 75%; }
+
+.quarter-4 {
+  width: 100%; }
+
+/**
+ * CSS:image
+ */
+.dd-photo {
+  height: 48px;
+  width: 48px;
+  border-radius: 50%;
+  overflow: hidden; }
+  .dd-photo.dd-photo-small {
+    height: 32px;
+    width: 32px; }
+  .dd-photo.dd-photo-large {
+    height: 128px;
+    width: 128px; }
+  .dd-photo.dd-photo-md {
+    height: 96px;
+    width: 96px; }
+  .dd-photo.dd-photo-x-large {
+    height: 256px;
+    width: 256px; }
+  .dd-photo.default-photo {
+    border: 2px solid #92C473;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600; }
+    .dd-photo.default-photo.islarge {
+      height: 48px;
+      width: 48px; }
+    .dd-photo.default-photo.center {
+      margin: 0 auto;
+      color: #fff; }
+
+.large-image .islarge {
+  max-height: 100%;
+  max-width: 100%;
+  height: 128px;
+  width: 128px; }
+
+.dd-photo-frame {
+  color: #FFF;
+  width: 60px;
+  border: 2px solid #91C373;
+  height: 60px;
+  display: flex;
+  vertical-align: middle;
+  border-radius: 50%;
+  font-size: 0.7em;
+  align-items: center;
+  position: relative; }
+  .dd-photo-frame .temp-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%; }
+
+.update-photo {
+  position: relative; }
+
+.dd-photo-link {
+  display: inline-block; }
+
+.dd-link-block {
+  display: block;
+  text-decoration: none;
+  color: inherit; }
+  .dd-link-block.flex {
+    display: flex;
+    align-items: center; }
+
+.text.notice {
+  color: #FFFCE2;
+  font-size: 0.7em;
+  width: 70%;
+  margin: 0 auto;
+  text-align: center; }
+  .text.notice a {
+    color: #fff;
+    text-decoration: underline; }
+
+/**
+ * CSS:div
+ * CSS:block
+ */
+.text-block {
+  display: block; }
+
+.submodule .app-page {
+  margin: 0; }
+.submodule .dd-form {
+  margin: 0;
+  padding: 0; }
+.submodule.dd-list {
+  height: 300px; }
+
+.divider-bottom {
+  width: 80%;
+  padding: 0.5em 0.5em;
+  margin: 0.5em auto;
+  border-bottom: 2px solid #FFF; }
+
+.tab-container {
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 10px;
+  background: #DADADA;
+  color: #003A42;
+  font-size: 1.2em;
+  border-bottom: 2px solid #FFF; }
+  .tab-container.tab-container-horizontal {
+    justify-content: center; }
+  .tab-container .tab {
+    display: flex;
+    justify-content: space-between; }
+    .tab-container .tab .fixed-tab-label {
+      position: absolute;
+      bottom: 5px;
+      left: 0;
+      right: 0;
+      font-size: 0.7em; }
+    .tab-container .tab.tab-half {
+      width: 30%;
+      margin: auto 5%;
+      display: inline-block;
+      position: relative; }
+      .tab-container .tab.tab-half.tab-half-padded {
+        padding-bottom: 10px; }
+    .tab-container .tab.active {
+      border-bottom: 1px solid #003A42; }
+  .tab-container.tab-container-fixed-top {
+    position: fixed;
+    top: 70px;
+    height: 70px;
+    z-index: 99; }
+
+.wrapper {
+  height: 100%;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  border-bottom: 1px solid #fff; }
+  .wrapper.header-wrapper {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between; }
+
+.page-header {
+  width: 100%;
+  background: #FFF;
+  text-align: center;
+  padding: 1em;
+  font-size: 0.9em;
+  color: #5D6058; }
+
+.header-bar {
+  background: #003A42;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  min-height: 70px;
+  height: 70px;
+  width: 100%;
+  color: #FFF; }
+  .header-bar .menu-toggle {
+    height: 70px;
+    width: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center; }
+  .header-bar .menu-pane-wrapper {
+    max-width: 80%;
+    width: 80%;
+    background: #FFF;
+    color: #000;
+    position: fixed;
+    height: 100%;
+    top: 70px;
+    left: -80%;
+    overflow: auto; }
+    .header-bar .menu-pane-wrapper .menu-pane {
+      background: #003A42;
+      color: #FFF; }
+      .header-bar .menu-pane-wrapper .menu-pane .top-section {
+        height: 10%;
+        padding-bottom: 2em;
+        text-transform: uppercase; }
+        .header-bar .menu-pane-wrapper .menu-pane .top-section .account-overview {
+          height: 100%;
+          position: relative;
+          padding: 0.5em;
+          height: 55px; }
+          .header-bar .menu-pane-wrapper .menu-pane .top-section .account-overview .account-balance {
+            align-self: baseline;
+            background: #FFF;
+            color: #003A42;
+            padding: 0.5em 1em;
+            border-radius: 1.5em;
+            font-size: 0.7em; }
+          .header-bar .menu-pane-wrapper .menu-pane .top-section .account-overview .margin-image {
+            margin-left: 0.5em; }
+      .header-bar .menu-pane-wrapper .menu-pane .menu-item {
+        background: #003A42;
+        color: #FFF;
+        width: 90%;
+        margin: auto;
+        letter-spacing: 1px;
+        margin-bottom: 1em;
+        height: 40px;
+        display: flex;
+        align-items: center; }
+        .header-bar .menu-pane-wrapper .menu-pane .menu-item .menu-icon {
+          width: 15%;
+          text-align: center; }
+        .header-bar .menu-pane-wrapper .menu-pane .menu-item .menu-name {
+          font-size: 0.9em; }
+          .header-bar .menu-pane-wrapper .menu-pane .menu-item .menu-name.small-text {
+            font-size: 0.8em; }
+  .header-bar .activity-selector {
+    width: 50%;
+    padding: 0.1em;
+    border-radius: 2em;
+    display: flex;
+    justify-content: space-between; }
+    .header-bar .activity-selector .activity-icon {
+      font-size: 1em; }
+      .header-bar .activity-selector .activity-icon.active {
+        color: #92C473; }
+  .header-bar .logo-wrapper .header-logo {
+    height: 90%; }
+  .header-bar .header-icon {
+    vertical-align: middle;
+    font-size: 1.5em; }
+
+.navbar {
+  height: 70px;
+  background: #003A42;
+  color: #FFF;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+  border-bottom: 1px solid #fff; }
+  .navbar .page-info {
+    padding: 1em;
+    text-transform: uppercase;
+    letter-spacing: 1.3px;
+    display: flex;
+    align-items: center; }
+    .navbar .page-info .page-ico {
+      position: relative; }
+    .navbar .page-info .pagename {
+      position: relative;
+      padding: 0;
+      margin: 0;
+      font-size: 0.8em; }
+    .navbar .page-info.name-bar {
+      text-align: center;
+      color: #92C473;
+      width: 100%; }
+  .navbar .back-button {
+    padding: 0.2em;
+    width: 40px; }
+  .navbar .navbar-icon {
+    font-size: 1.5em; }
+
+.app-wrapper {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll; }
+  .app-wrapper .accounts-page.inverse .accounts-container .account-list-item {
+    background: #FFF;
+    color: #003A42; }
+    .app-wrapper .accounts-page.inverse .accounts-container .account-list-item.selected {
+      color: #FFF;
+      background: #003A42; }
+  .app-wrapper .accounts-page .accounts-container .category {
+    text-align: left;
+    padding: 1em;
+    color: #003A42; }
+  .app-wrapper .accounts-page .accounts-container .account-list-item {
+    border: 1px solid #003A42;
+    color: white;
+    background: #003A42;
+    padding: 0.5em;
+    letter-spacing: 1px;
+    margin: 1em;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; }
+    .app-wrapper .accounts-page .accounts-container .account-list-item .item-text {
+      width: 100%; }
+    .app-wrapper .accounts-page .accounts-container .account-list-item.inverse {
+      background: transparent;
+      color: #003A42; }
+    .app-wrapper .accounts-page .accounts-container .account-list-item.inverse-light {
+      color: #FFF;
+      border: 1px solid #FFF; }
+  .app-wrapper .app-page {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 1em;
+    text-align: center;
+    background: #003A42;
+    overflow-y: scroll;
+    overflow-x: hidden; }
+    .app-wrapper .app-page.has-nav {
+      padding-top: 70px;
+      /**
+       * Nested app pages shall not have the extra padding
+       */ }
+      .app-wrapper .app-page.has-nav .app-page {
+        padding-top: 10px; }
+      .app-wrapper .app-page.has-nav .full-page {
+        background: #003A42; }
+      .app-wrapper .app-page.has-nav.MakePaymentView {
+        background: #003A42; }
+        .app-wrapper .app-page.has-nav.MakePaymentView .dd-form {
+          padding-bottom: 150px; }
+      .app-wrapper .app-page.has-nav .set-privacy-ti-text {
+        margin-top: 1em;
+        width: 90%;
+        margin: 1em auto;
+        text-align: left;
+        color: #92C473; }
+      .app-wrapper .app-page.has-nav .pri-firstlist {
+        background: #FFF;
+        border: 0;
+        color: #000; }
+      .app-wrapper .app-page.has-nav .set-privacy-bo-text {
+        width: 90%;
+        color: #fff;
+        margin: 0 auto;
+        font-size: 0.6em; }
+      .app-wrapper .app-page.has-nav.block-user-photo-container {
+        width: 100%;
+        height: 100%;
+        background: #f5f5f5; }
+        .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list {
+          width: 50%;
+          height: 160px;
+          float: left;
+          margin: 0;
+          padding-top: 2em; }
+          .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list .block-user-photo {
+            height: 48px;
+            width: 48px;
+            border-radius: 50%; }
+          .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list .dd-photo {
+            width: 70px;
+            height: 70px; }
+          .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list .image-box {
+            width: 100%;
+            display: flex;
+            justify-content: center; }
+          .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list .half-name {
+            font-size: 0.5em; }
+          .app-wrapper .app-page.has-nav.block-user-photo-container .block-user-photo-list .block-user-btn {
+            background: #003A42;
+            padding: 0.5em 0.8em;
+            border-radius: 1em;
+            margin: 10px 5px;
+            color: #FFF;
+            border: 0; }
+    .app-wrapper .app-page.background-light {
+      background: #F6F6F6;
+      border: 0; }
+    .app-wrapper .app-page.welcome-page {
+      background: #003A42;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      justify-content: center; }
+      .app-wrapper .app-page.welcome-page .form {
+        width: 100%; }
+      .app-wrapper .app-page.welcome-page .page-header {
+        position: absolute;
+        top: 0;
+        left: 0; }
+        .app-wrapper .app-page.welcome-page .page-header .back-form {
+          position: absolute;
+          top: 9px;
+          left: 10px; }
+      .app-wrapper .app-page.welcome-page .page-contenter {
+        padding: 0 10px;
+        position: absolute;
+        top: 70px;
+        left: 0;
+        text-align: justify; }
+        .app-wrapper .app-page.welcome-page .page-contenter p {
+          text-indent: 2em;
+          margin: 0;
+          font-size: 0.8em; }
+      .app-wrapper .app-page.welcome-page .register-page-1 .divider-group {
+        margin-bottom: 8px; }
+      .app-wrapper .app-page.welcome-page .register-page-1 .divider-left, .app-wrapper .app-page.welcome-page .register-page-1 .divider-right {
+        height: 1px;
+        width: 33%;
+        display: inline-block;
+        background-color: #fff;
+        margin: 5px 10px; }
+      .app-wrapper .app-page.welcome-page .register-page-2 {
+        margin-top: 50px;
+        display: none; }
+    .app-wrapper .app-page.welcome-content.app-background-color {
+      background: -webkit-radial-gradient(#3F6B71, #2A5A61, #003A42);
+      background: -o-radial-gradient(#3F6B71, #2A5A61, #003A42);
+      background: -moz-radial-gradient(#3F6B71, #2A5A61, #003A42);
+      background: radial-gradient(#3F6B71, #2A5A61, #003A42); }
+    .app-wrapper .app-page.welcome-content .extra-content {
+      width: 100%; }
+    .app-wrapper .app-page.welcome-content .login-options {
+      display: none;
+      background: #fff; }
+    .app-wrapper .app-page.welcome-content.display-login {
+      background: #003A42; }
+      .app-wrapper .app-page.welcome-content.display-login .logo-wrapper {
+        display: none; }
+      .app-wrapper .app-page.welcome-content.display-login .static-content {
+        display: none; }
+      .app-wrapper .app-page.welcome-content.display-login .login-options {
+        display: block;
+        background: #fff; }
+        .app-wrapper .app-page.welcome-content.display-login .login-options .logo-head {
+          background: #003A42;
+          position: fixed;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 25%;
+          z-index: 200; }
+          .app-wrapper .app-page.welcome-content.display-login .login-options .logo-head .logo-img {
+            height: 70%;
+            margin-top: 6%; }
+        .app-wrapper .app-page.welcome-content.display-login .login-options .recent-activity {
+          width: 100%;
+          height: 74%;
+          position: absolute;
+          top: 24.5%;
+          left: 0;
+          z-index: 1; }
+          .app-wrapper .app-page.welcome-content.display-login .login-options .recent-activity .activity-list-item {
+            height: 55px;
+            min-height: 55px; }
+        .app-wrapper .app-page.welcome-content.display-login .login-options .recent-activity-cover {
+          width: 100%;
+          height: 74%;
+          position: fixed;
+          top: 24.5%;
+          left: 0;
+          z-index: 2;
+          background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.9));
+          background: -o-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.9));
+          background: -moz-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.9));
+          background: linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.9)); }
+        .app-wrapper .app-page.welcome-content.display-login .login-options .login-btn {
+          position: fixed;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 6%;
+          background: #fff;
+          padding: 2em 0;
+          z-index: 200; }
+          .app-wrapper .app-page.welcome-content.display-login .login-options .login-btn .input-name-tag {
+            width: 120px;
+            padding: 8px 0;
+            border-radius: 2em; }
+    .app-wrapper .app-page .activity-container {
+      width: 100%;
+      padding-bottom: 60px; }
+      .app-wrapper .app-page .activity-container .activity-list-item {
+        background: #FFF;
+        padding-bottom: 1em;
+        padding: 1em 0.2em;
+        display: flex;
+        align-items: center;
+        text-align: left;
+        position: relative;
+        min-height: 70px;
+        border-bottom: 1px solid #92C473;
+        -webkit-tap-highlight-color: transparent; }
+        .app-wrapper .app-page .activity-container .activity-list-item.highlighted {
+          background: #ebebe9; }
+        .app-wrapper .app-page .activity-container .activity-list-item a {
+          color: black;
+          text-decoration: none; }
+        .app-wrapper .app-page .activity-container .activity-list-item.inverse {
+          background: transparent;
+          border: 1px solid #FFF; }
+        .app-wrapper .app-page .activity-container .activity-list-item .user-photo-container {
+          padding: 0.5em;
+          text-align: center; }
+        .app-wrapper .app-page .activity-container .activity-list-item .activity-summary .actions {
+          padding-top: 0.2em;
+          font-size: 0.8em;
+          width: 90%;
+          display: flex; }
+          .app-wrapper .app-page .activity-container .activity-list-item .activity-summary .actions .input-name-tag {
+            width: 5.5em;
+            padding: 0.4em 0.8em; }
+          .app-wrapper .app-page .activity-container .activity-list-item .activity-summary .actions .input-name-tag:first-child {
+            margin: 0; }
+        .app-wrapper .app-page .activity-container .activity-list-item .activity-title {
+          font-size: 0.8em; }
+        .app-wrapper .app-page .activity-container .activity-list-item .group-name {
+          padding: 10px; }
+        .app-wrapper .app-page .activity-container .activity-list-item .note {
+          font-size: 0.7em; }
+        .app-wrapper .app-page .activity-container .activity-list-item .social-actions {
+          position: absolute;
+          width: 70px;
+          font-size: 1.5em;
+          top: 0;
+          bottom: 0;
+          right: 0.5em;
+          margin: auto;
+          display: flex;
+          justify-content: space-around;
+          align-items: flex-end;
+          flex-direction: column; }
+          .app-wrapper .app-page .activity-container .activity-list-item .social-actions .ico-cell {
+            display: flex;
+            align-items: center; }
+            .app-wrapper .app-page .activity-container .activity-list-item .social-actions .ico-cell .count {
+              font-size: 0.5em; }
+            .app-wrapper .app-page .activity-container .activity-list-item .social-actions .ico-cell .icon-button {
+              padding: 0.1em; }
+              .app-wrapper .app-page .activity-container .activity-list-item .social-actions .ico-cell .icon-button.like-activity {
+                color: #F00; }
+              .app-wrapper .app-page .activity-container .activity-list-item .social-actions .ico-cell .icon-button.comment-activity {
+                color: #003A42;
+                margin-left: 2px; }
+        .app-wrapper .app-page .activity-container .activity-list-item .datetime-container {
+          align-self: flex-start;
+          color: #92C473;
+          font-size: 0.7em;
+          text-align: right;
+          top: 0.5em;
+          text-align: left; }
+          .app-wrapper .app-page .activity-container .activity-list-item .datetime-container.inverse {
+            color: #FFF; }
+        .app-wrapper .app-page .activity-container .activity-list-item .amount {
+          position: absolute;
+          right: 1em;
+          bottom: 1em; }
+          .app-wrapper .app-page .activity-container .activity-list-item .amount.positive {
+            color: #2072B2; }
+            .app-wrapper .app-page .activity-container .activity-list-item .amount.positive:before {
+              content: '+'; }
+          .app-wrapper .app-page .activity-container .activity-list-item .amount.negative {
+            color: #F00; }
+            .app-wrapper .app-page .activity-container .activity-list-item .amount.negative:before {
+              content: '-'; }
+          .app-wrapper .app-page .activity-container .activity-list-item .amount.pending {
+            color: #2072B2 !important; }
+        .app-wrapper .app-page .activity-container .activity-list-item .rejected {
+          position: absolute;
+          right: 0.2em;
+          bottom: 0.2em;
+          border: 1px solid #F00;
+          padding: 0.1em 0.3em;
+          color: #F00;
+          font-size: 0.8em; }
+      .app-wrapper .app-page .activity-container.has-fixed-top {
+        margin-top: 80px; }
+      .app-wrapper .app-page .activity-container.personal-feed .social-actions {
+        display: none !important; }
+    .app-wrapper .app-page.activity-page {
+      background: #F5F5F5; }
+      .app-wrapper .app-page.activity-page .back-activity {
+        text-align: left;
+        margin: 0 1em;
+        padding: 1rem 0 0 0;
+        width: 8em;
+        font-weight: 600;
+        display: flex;
+        align-items: center; }
+      .app-wrapper .app-page.activity-page .activity-container .activity-list-item {
+        background: #F5F5F5;
+        margin-bottom: 1em;
+        padding: 0.1em 0.3em;
+        border-bottom: 0; }
+        .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary {
+          width: 90%; }
+          .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .datetime-container {
+            position: absolute; }
+          .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .note {
+            word-wrap: break-word; }
+          .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions {
+            position: inherit;
+            font-size: 1.5em;
+            left: 0em;
+            top: 0em; }
+            .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions .solid {
+              position: absolute;
+              top: 3.4em;
+              left: 0.5em;
+              width: 3.5em;
+              border-top: 1px solid #003A42; }
+            .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions .like-user {
+              position: absolute;
+              top: 9em;
+              left: 5.3em;
+              width: 70%;
+              font-weight: 600;
+              font-size: 10px;
+              display: flex;
+              align-items: center;
+              height: 32px; }
+            .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions .like-activity {
+              position: absolute;
+              top: 3.8em;
+              left: -0.4em;
+              margin-left: 1em; }
+              .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions .like-activity.count {
+                display: none; }
+            .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .social-actions .comment-activity {
+              display: none; }
+          .app-wrapper .app-page.activity-page .activity-container .activity-list-item .activity-summary .amount {
+            top: auto;
+            left: 6.5em;
+            bottom: 0; }
+      .app-wrapper .app-page.activity-page .leave-comment-form {
+        position: relative;
+        text-align: left;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: flex;
+        align-items: center; }
+        .app-wrapper .app-page.activity-page .leave-comment-form .user-photo-container {
+          flex: none; }
+          .app-wrapper .app-page.activity-page .leave-comment-form .user-photo-container .dd-photo {
+            width: 42px;
+            height: 42px; }
+        .app-wrapper .app-page.activity-page .leave-comment-form .comment-text {
+          padding: 0.4em 0.2em;
+          flex: 1;
+          height: 100%;
+          margin: 5px 0;
+          border: 1px solid #9a9a9a;
+          padding-left: 5px; }
+      .app-wrapper .app-page.activity-page .list-comments .comment-list-item {
+        text-align: left;
+        margin-left: 5%;
+        margin-right: 5%;
+        display: flex;
+        align-items: center;
+        margin-top: 0.9em; }
+        .app-wrapper .app-page.activity-page .list-comments .comment-list-item .user-photo-container {
+          flex: none; }
+          .app-wrapper .app-page.activity-page .list-comments .comment-list-item .user-photo-container .dd-photo {
+            width: 42px;
+            height: 42px; }
+        .app-wrapper .app-page.activity-page .list-comments .comment-list-item .comment-text {
+          white-space: pre-wrap;
+          word-wrap: break-word;
+          flex: 1;
+          font-size: 12px; }
+        .app-wrapper .app-page.activity-page .list-comments .comment-list-item .user-name {
+          color: green;
+          font-size: 10px; }
+          .app-wrapper .app-page.activity-page .list-comments .comment-list-item .user-name .dot {
+            display: inline-block;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: #003A42;
+            position: relative;
+            top: -3px;
+            right: 0px; }
+    .app-wrapper .app-page.search-page .text {
+      margin-bottom: 10px;
+      color: #fff; }
+    .app-wrapper .app-page.search-page .search-box {
+      position: relative;
+      background: white;
+      width: 90%;
+      margin: auto;
+      overflow: hidden; }
+    .app-wrapper .app-page.search-page .recent {
+      border-bottom: 1px solid #fff;
+      width: 90%;
+      margin: 5px auto; }
+      .app-wrapper .app-page.search-page .recent .text-recent {
+        color: #92C473;
+        position: relative;
+        top: -0.8em; }
+      .app-wrapper .app-page.search-page .recent .recents .search-list-item {
+        margin-left: 0 !important; }
+    .app-wrapper .app-page.search-page .selected-search-results {
+      float: left;
+      left: 0;
+      width: 100%; }
+      .app-wrapper .app-page.search-page .selected-search-results .selected-result {
+        float: left;
+        color: #FFF;
+        background: #003A42;
+        margin: 0.2em;
+        font-size: 0.8em;
+        padding: 0.5em 1em;
+        border-radius: 1em; }
+    .app-wrapper .app-page.search-page .search-input {
+      margin: 0;
+      border: 0;
+      font-size: 1em;
+      float: left;
+      width: 100%;
+      padding: 0.5em;
+      height: 2em; }
+    .app-wrapper .app-page.search-page .search-list-item {
+      width: 100%;
+      text-align: left;
+      margin-left: 5%;
+      margin-bottom: 1em;
+      margin-top: 1em;
+      color: #FFF; }
+    .app-wrapper .app-page.group-manager {
+      overflow: hidden;
+      /**
+       * CSS:hack
+       * CSS:ios
+       * CSS:scroll
+       */ }
+      .app-wrapper .app-page.group-manager .dd-row {
+        padding: 0; }
+      .app-wrapper .app-page.group-manager .member-management .submodule {
+        height: 100%;
+        position: fixed;
+        width: 100%; }
+        .app-wrapper .app-page.group-manager .member-management .submodule .dd-form {
+          height: 100%;
+          overflow: hidden; }
+          .app-wrapper .app-page.group-manager .member-management .submodule .dd-form .search-results {
+            -webkit-overflow-scrolling: touch;
+            overflow-y: scroll;
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            overflow-x: hidden; }
+      .app-wrapper .app-page.group-manager .group-profile {
+        margin: 1em auto;
+        justify-content: inherit; }
+        .app-wrapper .app-page.group-manager .group-profile .dd-input-squared {
+          background: #FFF; }
+        .app-wrapper .app-page.group-manager .group-profile .group-actions .input-name-tag {
+          margin: 10px; }
+    .app-wrapper .app-page .profile-container .relative {
+      position: relative !important; }
+    .app-wrapper .app-page .profile-container .fixed-top {
+      background: #FFF; }
+    .app-wrapper .app-page .profile-container .ios-top-fix {
+      display: block;
+      height: 300px;
+      background: #fff;
+      position: fixed;
+      z-index: 66;
+      width: 100%;
+      top: 0; }
+    .app-wrapper .app-page .profile-container .user-profile {
+      position: fixed;
+      top: 70px;
+      width: 100%;
+      background: #FFF;
+      z-index: 99; }
+    .app-wrapper .app-page .profile-container .edit-photo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 48px; }
+    .app-wrapper .app-page .profile-container .friends-actions .action-item {
+      margin-bottom: 10px; }
+    .app-wrapper .app-page .profile-container .payment-actions {
+      position: fixed;
+      top: 220px;
+      width: 90%;
+      margin: auto;
+      left: 0;
+      right: 0; }
+      .app-wrapper .app-page .profile-container .payment-actions.edit-actions {
+        top: auto; }
+    .app-wrapper .app-page .profile-container .activity-container-pro {
+      padding-top: 150px; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .tab-container.tab-container-fixed-top {
+        top: auto;
+        height: auto; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .activity-container {
+        position: absolute; }
+        .app-wrapper .app-page .profile-container .activity-container-pro .activity-container.has-fixed-top {
+          margin-top: 60px; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .app-page {
+        background: #f5f5f5;
+        overflow-y: auto; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .tab-container {
+        background: #F6F6F6; }
+        .app-wrapper .app-page .profile-container .activity-container-pro .tab-container .tab.tab-half {
+          width: 45%;
+          padding: 0;
+          margin: 0; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .activity-region {
+        border-bottom: 2px solid #003a42; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .activity-list-item {
+        background: #F6F6F6; }
+      .app-wrapper .app-page .profile-container .activity-container-pro .active {
+        background: #003A42;
+        border-bottom: 2px solid #003a42;
+        color: #FFF; }
+        .app-wrapper .app-page .profile-container .activity-container-pro .active .dd-icon-public {
+          background: url(../ico/dd-icon-public-grey-01.png) 0 0 no-repeat;
+          background-size: 100% 100%; }
+        .app-wrapper .app-page .profile-container .activity-container-pro .active .dd-icon-between-friends {
+          background: url(../ico/dd-icon-friends-grey-01.png) 0 0 no-repeat;
+          background-size: 100% 100%; }
+  .app-wrapper .app-module {
+    padding-bottom: 60px; }
+
+.read-only .app-page.has-nav {
+  padding-top: 0; }
+.read-only .actions {
+  display: none !important; }
+
+.activity-list-item .like-activity.liked {
+  color: red; }

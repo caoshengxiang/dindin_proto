@@ -1,0 +1,14 @@
+{{#each comments}}
+<div class="CommentListItem comment-list-item">
+  <span class="user-photo-container col-2">
+    {{{image}}}
+  </span>
+  <span class="comment-text">{{comment}}</span>
+  <span class="user-name">
+    <span class="dot"></span>
+    <span>{{fullName}}</span>
+    <span class="commentTime"></span>
+  </span>
+
+</div>
+{{/each}}{{! end comments}}
